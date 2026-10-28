@@ -1,5 +1,5 @@
 // 修改前端檔案後，把版本號 +1，手機才會拿到新版
-const CACHE = 'budget-v1';
+const CACHE = 'budget-v2';
 const ASSETS = ['./', './index.html', './manifest.json', './icon-180.png', './icon-192.png', './icon-512.png'];
 
 self.addEventListener('install', e => {
